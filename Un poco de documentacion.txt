@@ -1,0 +1,31 @@
+El compilador lee un archivo llama read.py con el codigo fuente y escribirá el codigo intermedio en el archivo jprogram.js que es javascript
+
+El lenguaje que he creado es casi como cualquier otro lenguaje con { y ; pero en español.
+Algunas funcionalidades podrían no estar completas.
+
+Tipos de datos:
+
+ent : entero
+flot : flotanto
+car : caracters
+
+Palabras reservadas para el control del flujo del programa:
+'mientras', 'para', 'romper', 'continuar', 'retornar', 'si', 'funcion', 'clase'
+
+Operadores:
+=
++
+-
+/
+*
+<
+>
+
+Simbolos de puntuación:
+;
+(
+)
+[
+]
+{
+}
